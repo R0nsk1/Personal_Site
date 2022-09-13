@@ -1,0 +1,44 @@
+
+body{
+  background-color: black;
+  background-repeat: no-repeat;
+  background-size: 50%;
+}
+
+
+h1{
+  color: white;
+}
+
+h3{
+  color: white;
+}
+
+p{
+  color: white;
+}
+
+li{
+  color: white;
+}
+
+td{
+  color: white;
+}
+th{
+  color: white;
+}
+
+hr{
+  color:white;
+}
+
+a{
+  color: white;
+}
+input{
+  color: white;
+}
+label{
+  color: white;
+}
